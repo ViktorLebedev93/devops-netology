@@ -124,4 +124,4 @@ Moved and deleted — после удаления и перемещения вр
 
 В качестве результата отправьте ссылку на репозиторий.
 
-https://github.com/MaratKN/devops-netology
+https://github.com/ViktorLebedev93/devops-netology
