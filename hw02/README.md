@@ -212,7 +212,9 @@ Main ушла вперед а fix осталась на месте
 ![img21](img21.jpg)
 
 Ссылки на мои репозитории:
+
 GitLab - https://gitlab.com/viktorlebedev931/devops-netology
+
 GitHub - https://github.com/ViktorLebedev93/devops-netology
 
 
