@@ -106,6 +106,25 @@ README.md не добавлял при создании репозитория.
     * в GitHub — https://github.com/YOUR_ACCOUNT/devops-netology/releases;
     * в GitLab — https://gitlab.com/YOUR_ACCOUNT/devops-netology/-/tags;
     * в Bitbucket — список тегов расположен в выпадающем меню веток на отдельной вкладке. 
+	
+## Решение 2
+
+Создал легковесный тег 0.0 на HEAD-коммите командой git tag v0.0. Проверяю результат:
+
+![img6](img6.jpg)
+
+Видно, что у коммита с хэшем 1688c2a  и меткой HEAD (указатель последнего коммита в текущей ветке) есть тег v0.0.
+
+![img7](img7.jpg)
+
+Запушил теги 0.0
+
+![img8](img8.jpg)
+
+Создаем тег v0.1 с возможностью описания
+git tag -a v0.1 -m "Tag version 0.1 with description"
+
+![img9](img9.jpg)
 
 ## Задание 3. Ветки 
 
